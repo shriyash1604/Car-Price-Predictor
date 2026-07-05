@@ -5,8 +5,8 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ---
 
 ## 👤 Developer Profile
-* **Name:** Akshat Garg
-* **Registration Number:** 23BCE10641
+* **Name:** Shriyash Akhil
+* **Registration Number:** 23BCE10547
 * **Course:** B.Tech Computer Science and Engineering
 
 ---
